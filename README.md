@@ -1,2 +1,8 @@
 # full-adder
-my second one
+
+Full-Adder/
+│── README.md
+│── full_adder.v
+│── full_adder_tb.v
+│── simulation_output.png
+└── LICENSE (optional)
