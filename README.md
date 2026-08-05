@@ -1,4 +1,4 @@
-# full-adder
+README.md
 
 Full-Adder/
 │── README.md
