@@ -4,4 +4,4 @@ Full-Adder/
 │── full_adder.v
 │── full_adder_tb.v
 │── simulation_output.png
-└── LICENSE (optional)
+└── LICENSE (optional) 
